@@ -7,7 +7,7 @@ import matplotlib as mpl
 mpl.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
-
+000
 from tensorflow.examples.tutorials.mnist import input_data
 
 prefix = './Datas/'
